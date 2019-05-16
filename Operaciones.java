@@ -1,7 +1,7 @@
 
 public enum Operaciones {
 
-	Multiplicacion ("m"), Adicion("a"), Diferencia("d"), cociente ("c"), Raiz("r"), Cuadrado ("s");  ;
+	MULTIPLICACION ("m"), ADICION ("a"), DIFERENCIA("d"), COCIENTE ("c"), RAIZ("r"), CUADRADO ("s");
 	
     private final String inOperacion;
 
